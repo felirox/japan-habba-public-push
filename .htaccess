@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^privacy$ privacy.html [NC]
+RewriteRule ^terms$ terms.html [NC]
+RewriteRule ^refund$ refund.html [NC]
+RewriteRule ^pricing$ pricing.html [NC]
+RewriteRule ^contactus$ contacts.html [NC]

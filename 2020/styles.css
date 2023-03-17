@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,700');
+
+html, body, * {
+	font-family: 'Roboto';
+}
+
+#logo img,
+#logo_other img {
+	max-width: 20em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.visitors_guide {
+	background-color: ;
+}
+
+#logo {
+	float: left;
+}
+
+#logo_other {
+	float: right;
+}
+
+.theme {
+	max-width: 100%;
+	margin-bottom: 2em;
+}
+
+.jumbotron {
+	background-color: #fff;
+	margin-bottom: 0;
+}
+
+.speaker {
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+.speaker img.face {
+	width: 10em;
+	border-radius: 5em;
+	display: block;
+	margin: 0 auto 1em auto;
+}
+
+.company {
+	border-top: 2em solid #fff;
+	background-color: #fff;
+	width: 100%;
+}
+
+.speaker .logo {
+	width: 70%;
+	margin: 1em 15%;
+	height: 3em;
+	display: block;
+	background-color: #fff;
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+body.techfair {
+	background: url('images/techfair_bg.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+
+body.techfair .container {
+	background-color: rgba(255,255,255,0.85);
+}
+
+.break {
+	height: 15em;
+	margin-bottom: 2em;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.break .col-md-12 {
+	background-color: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	text-align: center;
+	font-weight: 100;
+	text-transform: uppercase;
+	font-size: 3em;
+	line-height: 5em;
+	text-shadow: 3px 3px #000;
+}
+
+.tea-break {
+	background-image: url('images/booth.jpg');
+}
+
+.lunch-break {
+	background-image: url('images/lunch.jpg');
+}
+
+.speaker b {
+	display: block;
+}
+
+.speaker i {
+	font-size: 0.9em;
+	font-style: normal;
+}
+
+.speaker .interested-in b {
+	text-transform: uppercase;
+	font-weight: 300;
+	margin-bottom: 0.2em;
+}
+
+.speaker .interested-in {
+	font-size: 0.75em;
+	background-color: #7d9dff;
+	padding: 0.5em;
+	margin: 2em;
+}
+
+.company .interested-in {
+	margin: 2em 0;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+.infocard {
+	height: 230px;
+	display: block;
+	background-image: linear-gradient(to right, #940884, #dd3f95);
+	border-radius: 5px 5px 0 0;
+}
+
+.panel {
+	padding: 2em;
+	background-color: #ffe3fc;
+	border-radius: 5px;
+}
+
+.text {
+	padding: 0.1em 0 0.27em 0;
+	display: block;
+	background-image: linear-gradient(to right, #940884, #dd3f95);
+	margin-bottom: 1em;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fff;
+	border-radius: 0 0 5px 5px;
+	font-weight: 200;
+	font-size: 1.2em;
+}
+
+.title {
+	display: block;
+	background-image: linear-gradient(to right, #940884, #dd3f95);
+	border-radius: 5px;
+	padding: 0.1em;
+	margin-bottom: 1em;
+	text-align: left;
+	padding-left: 0.5em;
+	text-transform: uppercase;
+	color: #fff;
+	font-weight: 200;
+	font-size: 1.5em;
+}
+
+body.techfair .title,
+body.techfair .text {
+	background-image: linear-gradient(to right, #081c94, #4b73ec);
+}
+
+#myCarousel img {
+	width: 100%;
+}
+
+.background {
+	position: relative;
+	background-color: #fff;
+	width: 95%;
+	height: 95%;
+	top: 3%;
+	left: 2.5%;
+	background-position: center;
+	background-size: cover;
+	border: 20px;
+	border-radius: 5px;
+	border: 1px solid #fff;
+}
+
+.btn-primary {
+	background-color: #940884;
+	border-color: #940884;
+}
+
+.btn-primary:hover,
+.btn-primary:active {
+	background-color: #b50aa1 !important;
+	border-color: #b50aa1 !important;
+}
+
+.btn-secondary {
+	background-color: #dd3f95;
+	border-color: #dd3f95;
+}
+
+.btn-secondary:hover,
+.btn-secondary:active {
+	background-color: #f643a2 !important;
+	border-color: #f643a2 !important;
+}
+
+footer {
+	text-align: center;
+	padding: 2em 0 2em 0;
+	background-color: #ffe3fc;
+}
+
+body.techfair footer {
+	background-color: #7d9dff;
+}
+
+footer a,
+footer a:hover,
+footer a:visited,
+footer a:active {
+	color: #940884;
+}
+
+body.techfair footer a,
+body.techfair footer a:hover,
+body.techfair footer a:visited,
+body.techfair footer a:active {
+	color: #ddd;
+}
+
+.blurb {
+	padding: 1em;
+}
+
+table.table {
+	background-color: #fff;
+}
+
+@media all and (max-width: 768px) {
+  #logo img,
+  #logo_other img {
+  	max-width: 80%;
+  }
+
+  #logo,
+  #logo_other {
+  	text-align: center;
+  	float: none;
+  }
+
+  a {
+  	display: block;
+  	margin-bottom: 0.4em;
+  }
+
+  .panel {
+  	margin-bottom: 0.4em;
+  }
+
+  .break .col-md-12 {
+  	font-size: 2em;
+  	line-height: 1em;
+  	padding-top: 3em;
+  }
+
+  .nomobile {
+  	display: none;
+  }
+}
