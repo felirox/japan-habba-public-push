@@ -4,3 +4,12 @@ RewriteRule ^terms$ terms.html [NC]
 RewriteRule ^refund$ refund.html [NC]
 RewriteRule ^pricing$ pricing.html [NC]
 RewriteRule ^contactus$ contacts.html [NC]
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME} !-l
+  RewriteRule . /index.html [L]
+</IfModule>
