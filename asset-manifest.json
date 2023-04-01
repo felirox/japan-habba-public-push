@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f1bcc98e.chunk.css",
-    "main.js": "/static/js/main.2d1eebfa.chunk.js",
-    "main.js.map": "/static/js/main.2d1eebfa.chunk.js.map",
+    "main.js": "/static/js/main.08ee42c8.chunk.js",
+    "main.js.map": "/static/js/main.08ee42c8.chunk.js.map",
     "reactPlayerDailyMotion.js": "/static/js/reactPlayerDailyMotion.64c9f336.chunk.js",
     "reactPlayerDailyMotion.js.map": "/static/js/reactPlayerDailyMotion.64c9f336.chunk.js.map",
     "reactPlayerFacebook.js": "/static/js/reactPlayerFacebook.8b921a04.chunk.js",
@@ -70,7 +70,7 @@
     "static/media/rakuten lossless logo.5a1f72ad.png": "/static/media/rakuten lossless logo.5a1f72ad.png",
     "static/media/specialperf.b2023af5.jpg": "/static/media/specialperf.b2023af5.jpg",
     "static/media/t-02.f0ffc323.png": "/static/media/t-02.f0ffc323.png",
-    "static/media/techfair2.9f3f8d61.jpg": "/static/media/techfair2.9f3f8d61.jpg",
+    "static/media/techfair2.049f6108.jpg": "/static/media/techfair2.049f6108.jpg",
     "static/media/the-racer2.580f15cd.jpg": "/static/media/the-racer2.580f15cd.jpg",
     "static/media/theracer-small.51874213.png": "/static/media/theracer-small.51874213.png",
     "static/media/twitter-logo.28db309d.svg": "/static/media/twitter-logo.28db309d.svg",
@@ -83,6 +83,6 @@
     "static/css/15.929e10c0.chunk.css",
     "static/js/15.ebb9e7e8.chunk.js",
     "static/css/main.f1bcc98e.chunk.css",
-    "static/js/main.2d1eebfa.chunk.js"
+    "static/js/main.08ee42c8.chunk.js"
   ]
 }
