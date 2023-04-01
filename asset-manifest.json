@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f1bcc98e.chunk.css",
-    "main.js": "/static/js/main.6748ce13.chunk.js",
-    "main.js.map": "/static/js/main.6748ce13.chunk.js.map",
+    "main.js": "/static/js/main.2d1eebfa.chunk.js",
+    "main.js.map": "/static/js/main.2d1eebfa.chunk.js.map",
     "reactPlayerDailyMotion.js": "/static/js/reactPlayerDailyMotion.64c9f336.chunk.js",
     "reactPlayerDailyMotion.js.map": "/static/js/reactPlayerDailyMotion.64c9f336.chunk.js.map",
     "reactPlayerFacebook.js": "/static/js/reactPlayerFacebook.8b921a04.chunk.js",
@@ -32,14 +32,14 @@
     "runtime-main.js": "/static/js/runtime-main.8504be01.js",
     "runtime-main.js.map": "/static/js/runtime-main.8504be01.js.map",
     "static/css/15.929e10c0.chunk.css": "/static/css/15.929e10c0.chunk.css",
-    "static/js/15.7d06e02a.chunk.js": "/static/js/15.7d06e02a.chunk.js",
-    "static/js/15.7d06e02a.chunk.js.map": "/static/js/15.7d06e02a.chunk.js.map",
+    "static/js/15.ebb9e7e8.chunk.js": "/static/js/15.ebb9e7e8.chunk.js",
+    "static/js/15.ebb9e7e8.chunk.js.map": "/static/js/15.ebb9e7e8.chunk.js.map",
     "static/js/16.a4fe005a.chunk.js": "/static/js/16.a4fe005a.chunk.js",
     "static/js/16.a4fe005a.chunk.js.map": "/static/js/16.a4fe005a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/15.929e10c0.chunk.css.map": "/static/css/15.929e10c0.chunk.css.map",
     "static/css/main.f1bcc98e.chunk.css.map": "/static/css/main.f1bcc98e.chunk.css.map",
-    "static/js/15.7d06e02a.chunk.js.LICENSE.txt": "/static/js/15.7d06e02a.chunk.js.LICENSE.txt",
+    "static/js/15.ebb9e7e8.chunk.js.LICENSE.txt": "/static/js/15.ebb9e7e8.chunk.js.LICENSE.txt",
     "static/media/2000px_at_b.f2b20965.jpg": "/static/media/2000px_at_b.f2b20965.jpg",
     "static/media/BNK Logo.7fb31f64.bmp": "/static/media/BNK Logo.7fb31f64.bmp",
     "static/media/Fujitsu logo.8d7e3531.png": "/static/media/Fujitsu logo.8d7e3531.png",
@@ -68,6 +68,7 @@
     "static/media/mount-fuji-japan-svgrepo-com.7e9ac762.svg": "/static/media/mount-fuji-japan-svgrepo-com.7e9ac762.svg",
     "static/media/play-button.b05f3377.svg": "/static/media/play-button.b05f3377.svg",
     "static/media/rakuten lossless logo.5a1f72ad.png": "/static/media/rakuten lossless logo.5a1f72ad.png",
+    "static/media/specialperf.b2023af5.jpg": "/static/media/specialperf.b2023af5.jpg",
     "static/media/t-02.f0ffc323.png": "/static/media/t-02.f0ffc323.png",
     "static/media/techfair2.9f3f8d61.jpg": "/static/media/techfair2.9f3f8d61.jpg",
     "static/media/the-racer2.580f15cd.jpg": "/static/media/the-racer2.580f15cd.jpg",
@@ -80,8 +81,8 @@
   "entrypoints": [
     "static/js/runtime-main.8504be01.js",
     "static/css/15.929e10c0.chunk.css",
-    "static/js/15.7d06e02a.chunk.js",
+    "static/js/15.ebb9e7e8.chunk.js",
     "static/css/main.f1bcc98e.chunk.css",
-    "static/js/main.6748ce13.chunk.js"
+    "static/js/main.2d1eebfa.chunk.js"
   ]
 }
